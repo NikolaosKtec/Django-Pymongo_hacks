@@ -1,0 +1,66 @@
+# Arquivos do VS Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Ambiente virtual
+myenv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache do Django
+*.pot
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Arquivos de instalação do Python
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Arquivos temporários e de IDE
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+
+# Arquivos de cobertura de testes
+.coverage
+htmlcov/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Arquivos de ambiente
+.env
+.venv
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Outros
+*.sql
+*.sqlite
+*.log
