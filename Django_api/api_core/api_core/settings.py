@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'api_core.wsgi.application'
 #                'NAME': 'local',
 #                'URL': 'mongodb://localhost:27017/'} }
 DATABASE_URL = 'mongodb://localhost:27017/'
-
+DB_NAME = 'local'
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 

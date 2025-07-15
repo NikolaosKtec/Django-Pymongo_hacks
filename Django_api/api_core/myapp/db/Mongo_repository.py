@@ -1,7 +1,6 @@
-
 from pymongo import MongoClient
 from django.conf import settings
-       
+
 class Mongo_repository():
     def __init__(self):
         

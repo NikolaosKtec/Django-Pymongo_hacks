@@ -16,12 +16,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from myapp.controller import View_car,View_client
+from myapp.controller import View_car,View_client,View_contract
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('cars/',View_car.View_car.as_view()),
-    path('cars/page/<int:page_number>',View_car.View_car.as_view(),name='car_page'),
+    # path('cars/page/<int:page>',View_car.View_car.as_view()),
     path('client/',View_client.View_client.as_view()),
-    path('client/page/<int:page_number>',View_client.View_client.as_view(),name='client_page'),
+    # path("client/page/<int:client_page>",View_client.View_client.as_view()),
+    path('contracts/', View_contract.View_contract.as_view()),
 ]
