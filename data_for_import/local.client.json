@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec74"
+  },
+  "id": "77da7471-df5c-4de6-bc20-cf3bf3b15092",
+  "name": "Agnes",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sun May 07 2006 21:10:25 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec75"
+  },
+  "id": "41ddfbdd-29f3-48bf-a951-da3b8aaedf7e",
+  "name": "Strong",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Tue Jan 30 1973 17:51:25 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec76"
+  },
+  "id": "c27e2692-c390-451d-ae8f-4c5ea5c65b9a",
+  "name": "Wanda",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Thu Mar 20 2008 07:24:18 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec77"
+  },
+  "id": "283c0fea-27ea-45d3-889d-28e11206da49",
+  "name": "Robin",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Mar 20 2002 04:52:11 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec78"
+  },
+  "id": "c0a3e31d-84a4-4d96-99ad-ce9dd6dd469b",
+  "name": "Lynette",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Jun 13 1979 22:08:47 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec79"
+  },
+  "id": "275130eb-6ccf-4709-8daa-51a81a7813eb",
+  "name": "Noelle",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Fri May 25 1979 16:34:48 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7a"
+  },
+  "id": "1e5c77df-a321-4784-984f-825d4aa0696c",
+  "name": "Mae",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sat Jun 29 2024 09:21:46 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7b"
+  },
+  "id": "6dc02ebe-04ba-4654-97a5-eba115a815ab",
+  "name": "Sims",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Jan 15 1992 08:35:25 GMT-0200 (Horário de Verão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7c"
+  },
+  "id": "21cb4e25-20fc-4ae3-b113-2d17aaac6ee7",
+  "name": "Angelita",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Fri Mar 01 1996 05:33:53 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7d"
+  },
+  "id": "26e87958-dabf-40c5-86b6-e3f9f951f993",
+  "name": "Odom",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Sep 26 1979 15:25:05 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7e"
+  },
+  "id": "b24825a8-2d2e-4a1c-85fb-f10084c39f4e",
+  "name": "Dale",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Thu Dec 23 1999 16:59:40 GMT-0200 (Horário de Verão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec7f"
+  },
+  "id": "64a77d8d-0964-4312-af2a-2f19295e43c3",
+  "name": "Jillian",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Fri Apr 09 1999 17:51:23 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec80"
+  },
+  "id": "f7d33338-5a74-4e6f-911e-8caab95ee2dd",
+  "name": "Matthews",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Oct 23 2013 12:40:42 GMT-0200 (Horário de Verão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec81"
+  },
+  "id": "5ae94cd4-2d96-4ea9-b34c-471a7cbb946b",
+  "name": "Genevieve",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Wed Apr 15 2015 21:46:19 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec82"
+  },
+  "id": "9c36fd24-1029-49e7-8eb3-db45191c2085",
+  "name": "Clark",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Fri Nov 20 1987 10:52:53 GMT-0200 (Horário de Verão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec83"
+  },
+  "id": "3883c991-804d-4592-8635-2b75e5debad8",
+  "name": "Cruz",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sat Mar 03 1979 01:27:11 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec84"
+  },
+  "id": "7bc261c3-d681-449a-ae33-e1ed3a171de2",
+  "name": "Jimenez",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Mon Nov 13 1995 21:25:03 GMT-0200 (Horário de Verão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec85"
+  },
+  "id": "baa35324-aebe-49c9-ab15-ac3a38995b21",
+  "name": "Maynard",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sun Jun 20 1982 20:53:25 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec86"
+  },
+  "id": "03eb8452-f5ee-49b9-a0b0-5f872ad5418f",
+  "name": "Esperanza",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sun Sep 12 2004 07:13:37 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "686d9b68fa5922e5e144ec87"
+  },
+  "id": "13486427-836f-485f-b1e4-49b6787afbea",
+  "name": "Sharpe",
+  "amount_pocketed": null,
+  "chosen_model": null,
+  "deadline_to_apply": "Sun Dec 26 1976 13:56:03 GMT-0300 (Horário Padrão de Brasília)"
+},
+{
+  "_id": {
+    "$oid": "6871a9c7e28e51b5ddfe86f4"
+  },
+  "id": null,
+  "name": "niko la",
+  "amount_pocketed": null,
+  "chosen_model": false,
+  "deadline_to_apply": "2025-07-11",
+  "email": "nikolaosf1daskalakis@gmail.com",
+  "phone_number": "+5598499180-1310"
+},
+{
+  "_id": {
+    "$oid": "6871aaf9949f1752a098b39e"
+  },
+  "id": null,
+  "name": "Changri la",
+  "amount_pocketed": 350.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "nikolaosf1daskalakis@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871ab7180deacf0430c93da"
+  },
+  "id": null,
+  "name": "Changri lamda C",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871aca743c34658e53512f7"
+  },
+  "id": null,
+  "name": "Changri lamda C",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871af83b3324d681ae1f6f3"
+  },
+  "id": null,
+  "name": "Nemesis",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b05949044252ef244702"
+  },
+  "id": null,
+  "name": "Nemesis",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b06dfecfc5732980c150"
+  },
+  "id": null,
+  "name": "Nemesis",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b0c994a43996661d2d1a"
+  },
+  "id": null,
+  "name": "Nemesis",
+  "amount_pocketed": 0.88,
+  "chosen_model": false,
+  "deadline_to_apply": "None",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b12651995851da144738"
+  },
+  "id": null,
+  "name": "test2",
+  "amount_pocketed": 0.0098,
+  "chosen_model": true,
+  "deadline_to_apply": "2050-12-30",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b38f3732b1bbf4d6dda6"
+  },
+  "id": null,
+  "name": "test2",
+  "amount_pocketed": 0.0098,
+  "chosen_model": true,
+  "deadline_to_apply": "2050-12-30",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6871b39e3732b1bbf4d6dda8"
+  },
+  "id": null,
+  "name": "test3",
+  "amount_pocketed": 0.0098,
+  "chosen_model": true,
+  "deadline_to_apply": "2050-12-30",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6875a9e9053cde44daabae14"
+  },
+  "name": "amanda",
+  "amount_pocketed": 0,
+  "deadline_to_apply": "2050-12-30",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+},
+{
+  "_id": {
+    "$oid": "6875aa6f053cde44daabae19"
+  },
+  "name": "amanda",
+  "amount_pocketed": 0,
+  "deadline_to_apply": "2022-09-20",
+  "email": "mail@gmail.com",
+  "phone_number": "+5598495555-5555"
+}]

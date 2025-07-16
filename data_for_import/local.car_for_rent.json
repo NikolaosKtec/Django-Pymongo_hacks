@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "687590f53d3fc25932fccfb7"
+  },
+  "vehicle": "test",
+  "rent_price_month": 99999.99,
+  "text": "test,test.123"
+},
+{
+  "_id": {
+    "$oid": "6875911f3d3fc25932fccfb9"
+  },
+  "vehicle": "test two",
+  "rent_price_month": 0,
+  "text": "test test test"
+},
+{
+  "_id": {
+    "$oid": "68759158a779be0c6f1dc013"
+  },
+  "vehicle": "test tree",
+  "rent_price_month": 1,
+  "text": "test test test"
+},
+{
+  "_id": {
+    "$oid": "68759177a779be0c6f1dc015"
+  },
+  "vehicle": "test four",
+  "rent_price_month": 0,
+  "text": "test test test"
+}]

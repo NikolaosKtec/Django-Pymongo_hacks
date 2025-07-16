@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071d9"
+  },
+  "id_client": {
+    "$oid": "686d9b68fa5922e5e144ec74"
+  },
+  "id_car": {
+    "$oid": "686d98e6fa5922e5e144ec71"
+  },
+  "expires": "10/06/2026",
+  "insurance_policy": {
+    "insurance_company": "Allianz",
+    "deductible_type": "partial deductible",
+    "deductible_amount": 1000
+  }
+},
+{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071dc"
+  },
+  "id_client": {
+    "$oid": "686d9b68fa5922e5e144ec74"
+  },
+  "id_car": {
+    "$oid": "6871a8dee28e51b5ddfe86ec"
+  },
+  "expires": "18/10/2026",
+  "insurance_policy": {
+    "insurance_company": "Generali",
+    "deductible_type": "full deductible",
+    "deductible_amount": 15000
+  }
+},
+{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071df"
+  },
+  "id_client": {
+    "$oid": "6871aca743c34658e53512f7"
+  },
+  "id_car": {
+    "$oid": "687562b8fc13ae7989f071e1"
+  },
+  "expires": "25/01/2026",
+  "insurance_policy": {
+    "insurance_company": "AXA",
+    "deductible_type": "partial deductible",
+    "deductible_amount": 5000
+  }
+},
+{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071e2"
+  },
+  "id_client": {
+    "$oid": "6871aaf9949f1752a098b39e"
+  },
+  "id_car": {
+    "$oid": "687562b8fc13ae7989f071e4"
+  },
+  "expires": "30/04/2027",
+  "insurance_policy": {
+    "insurance_company": "Zurich",
+    "deductible_type": "partial deductible",
+    "deductible_amount": 500
+  }
+},
+{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071e5"
+  },
+  "id_client": {
+    "$oid": "6871a9c7e28e51b5ddfe86f4"
+  },
+  "id_car": {
+    "$oid": "686d98e6fa5922e5e144ec6f"
+  },
+  "expires": "25/12/2025",
+  "insurance_policy": {
+    "insurance_company": "Mapfre",
+    "deductible_type": "partial deductible",
+    "deductible_amount": 2000
+  }
+},
+{
+  "_id": {
+    "$oid": "687562b8fc13ae7989f071e8"
+  },
+  "id_client": {
+    "$oid": "6871af83b3324d681ae1f6f3"
+  },
+  "id_car": {
+    "$oid": "6871b34e3732b1bbf4d6dda4"
+  },
+  "expires": "11/11/2025",
+  "insurance_policy": {
+    "insurance_company": "Liberty",
+    "deductible_type": "full deductible",
+    "deductible_amount": 18000
+  }
+},
+{
+  "_id": {
+    "$oid": "6875b562945783a03b92697a"
+  },
+  "id_client": {
+    "$oid": "686d9b68fa5922e5e144ec87"
+  },
+  "id_car": {
+    "$oid": "68759158a779be0c6f1dc013"
+  },
+  "expires": "2000-02-21",
+  "insurance_policy": {
+    "insurance_company": "Liberty",
+    "deductible_type": "full deductible",
+    "deductible_amount": 18000
+  }
+},
+{
+  "_id": {
+    "$oid": "6875b6cf4e1e39699d1b248b"
+  },
+  "id_client": {
+    "$oid": "686d9b68fa5922e5e144ec88"
+  },
+  "id_car": {
+    "$oid": "68759158a779be0c6f1dc014"
+  },
+  "expires": "2002-12-24",
+  "insurance_policy": {
+    "insurance_company": "Liberty",
+    "deductible_type": "full deductible",
+    "deductible_amount": 18000
+  }
+}]
