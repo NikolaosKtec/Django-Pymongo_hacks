@@ -22,7 +22,7 @@
 <li>Clone-o</li>
 
 ```
-git clone https://github.com/NikolaosKtec/Django-Pymongo_hacks/tree/main
+git clone https://github.com/NikolaosKtec/Django-Pymongo_hacks/
 ```
 <li>Mude para a pasta: Django_api/</li>
 
